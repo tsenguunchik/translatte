@@ -1,3 +1,7 @@
+# This is a modification of translatte package
+
+The translatte package had the issue with the token
+
 # A free and unlimited translate for NodeJS.
 
 <p align="center"><img src="https://raw.githubusercontent.com/extensionsapp/translatte/master/translatte_md.png" alt="TRANSLATTE, npm package translate for NodeJS" title="TRANSLATTE, npm package translate for NodeJS"></p>
